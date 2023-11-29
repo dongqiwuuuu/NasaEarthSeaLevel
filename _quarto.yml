@@ -8,8 +8,8 @@ execute:
 book:
   title: "Exploratory analysis on Sea Level Rise"
   author:
-    - AUTHOR1 (dw3086)
-    - AUTHOR2 (ql2501)
+    - Dongqi Wu (dw3086)
+    - Qi Liu (ql2501)
   repo-url: https://github.com/dongqiwuuuu/NasaEarthSeaLevel.git
   date: today
   page-footer:
